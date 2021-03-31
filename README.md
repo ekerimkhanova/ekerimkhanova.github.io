@@ -1,2 +1,2 @@
-### gh-pages: https://ekerimkhanova.github.io/how-to-learn/
-### Single-page website HTML5, CSS3
+### Single-page website: https://ekerimkhanova.github.io/how-to-learn/
+### Technology stack: HTML5, CSS3
